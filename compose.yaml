@@ -4,4 +4,4 @@ services:
     tty: true
     volumes:
       - .:/app
-    working_dir: /yarn-training
+    working_dir: /app
